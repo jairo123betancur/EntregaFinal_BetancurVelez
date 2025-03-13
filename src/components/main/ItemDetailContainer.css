@@ -1,0 +1,33 @@
+
+.item-detail-container {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .item-detail-container img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .item-detail-container h2 {
+    margin: 1rem 0;
+  }
+  
+  .item-detail-container p {
+    margin: 0.5rem 0;
+  }
+  
+  .btn-buy {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-buy:hover {
+    background-color: #218838;
+  }

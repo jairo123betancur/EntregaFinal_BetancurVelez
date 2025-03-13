@@ -1,0 +1,20 @@
+.brief {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .brief h4 {
+    margin-bottom: 1rem;
+  }
+  
+  .brief ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .brief ul li {
+    margin-bottom: 0.5rem;
+  }
