@@ -9,7 +9,7 @@ Este proyecto es mi entrega final del curso de React Js de Coderhouse. Consiste 
 ## Link al deploy
 
 [Ver deploy](https://entrega-final-betancur-velez.vercel.app/)
-
+[Ver gif](https://github.com/jairo123betancur/EntregaFinal_BetancurVelez/blob/main/public/img/tienda_final.gif)
 ---
 
 ## Creado con
